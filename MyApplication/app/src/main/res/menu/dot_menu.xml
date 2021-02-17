@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/send"
+        android:title="SEND"
+        android:icon="@drawable/ic_baseline_send_24"
+        app:showAsAction = "ifRoom"
+        />
+    <item android:id="@+id/color"
+        android:title="COLOR"
+        android:icon="@drawable/ic_baseline_colorize_24"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/share"
+        android:title="SHARE"
+        android:icon="@drawable/ic_baseline_colorize_24"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/exit"
+        android:title="EXIT"
+        android:icon="@drawable/ic_baseline_colorize_24"
+        app:showAsAction="never"
+        />
+</menu>

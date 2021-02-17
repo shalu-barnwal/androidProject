@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">intentActivity</string>
+    <string name="btnMain">Send</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="btnSecond">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>

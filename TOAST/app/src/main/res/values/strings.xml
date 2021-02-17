@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HELLO TOAST</string>
+    <string name="toast_message">Hello Toast!</string>
+</resources>
